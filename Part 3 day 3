@@ -1,0 +1,12 @@
+3. IT Support & Troubleshooting Scenarios (Evening)
+Prepare answers for:
+System not booting – what will you check?
+Internet not working on LAN
+Docker service down
+User can’t login
+Disk full issue
+👉 Answer format:
+Identify issue
+Check logs / commands
+Apply fix
+Prevent future issue
