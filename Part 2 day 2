@@ -1,0 +1,13 @@
+2. Automation & Scripting (Mid-Day)
+Shell / Python (Basic understanding only)
+Why automation is needed
+Example:
+Script to check disk usage
+Script to restart service
+Ansible (Conceptual)
+What is Ansible?
+Why Ansible is used?
+Agentless concept
+PXE / OS Provisioning
+What is PXE?
+Why network boot is useful?
