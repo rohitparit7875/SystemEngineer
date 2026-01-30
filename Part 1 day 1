@@ -1,0 +1,20 @@
+🔹 PART 1 – Operating Systems (Linux + Windows)
+Focus Areas
+What is an Operating System?
+Linux vs Windows
+Why Linux is preferred for servers
+Linux (Must-know)
+Basic commands:
+ls, cd, pwd, cp, mv, rm
+System monitoring:
+top, df -h, free -m
+File permissions:
+chmod, chown
+Services & logs:
+systemctl, /var/log
+Windows
+Installation basics
+Updates & patching
+User management
+🎯 Interview angle:
+“How do you check system health?”
