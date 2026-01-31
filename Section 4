@@ -1,0 +1,12 @@
+How to Answer
+🔸 Common Questions
+Q1. Difference between System Engineer and SysAdmin?
+👉 System Engineer focuses on design, automation, and scalability, while SysAdmin focuses more on daily operations.
+Q2. How do you troubleshoot a server down issue?
+👉 Check monitoring → logs → services → network → root cause → permanent fix.
+Q3. What steps do you take to improve system reliability?
+👉 Monitoring, backups, redundancy, automation, and regular patching.
+Q4. Have you worked with cloud or DevOps tools?
+👉 Even basic exposure counts—explain what you’ve practiced.
+Interview closing line (power move):
+“I focus on building stable systems and continuously improving them through automation and monitoring.”
