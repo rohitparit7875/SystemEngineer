@@ -1,0 +1,14 @@
+SECTION 3: Tools, Automation & Monitoring
+🔹 Automation
+Bash scripting (loops, cron jobs)
+Ansible basics (playbooks, inventory)
+Python basics (optional but valuable)
+🔹 Monitoring & Logging
+Monitoring tools: Nagios, Prometheus, Grafana
+Log tools: journalctl, ELK basics
+Alerts & incident response
+🔹 Security Basics
+SSH hardening
+User & access management
+Patch management
+Backup & recovery strategies
