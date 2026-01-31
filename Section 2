@@ -1,0 +1,16 @@
+SECTION 2: Core Technical Skills You Must Know
+🔹 Linux & OS
+Process management (ps, top, htop)
+File permissions & ownership
+System services (systemctl)
+Log analysis (/var/log)
+Disk & memory management
+🔹 Networking Basics
+TCP/IP, DNS, DHCP
+Ports & protocols (HTTP, HTTPS, SSH)
+Firewalls (iptables / ufw)
+Network troubleshooting (ping, netstat, ss)
+🔹 Virtualization & Cloud
+Virtual Machines (VMware / KVM)
+Basic cloud knowledge (AWS EC2, security groups)
+Storage concepts (EBS, NFS)
