@@ -1,0 +1,10 @@
+✅ One-Line Difference
+Switch: Connects devices within the same network using MAC addresses.
+Router: Connects different networks using IP addresses.
+✅ Ultra-Short (Very Common in Interviews)
+Switch = Inside network
+Router = Between networks / Internet
+✅ Router vs Switch vs Hub (One-Line Each)
+Hub: Sends data to all devices (no intelligence).
+Switch: Sends data to the correct device in a LAN.
+Router: Sends data to the correct network (LAN ↔ Internet).
