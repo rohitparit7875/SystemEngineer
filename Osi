@@ -1,0 +1,23 @@
+🔹 OSI Model – Questions & Answers (VERY IMPORTANT)
+8. What is the OSI model?
+Answer:
+OSI is a 7-layer model that explains how data moves in a network.
+Layers:
+Physical
+Data Link
+Network
+Transport
+Session
+Presentation
+Application
+9. Which layer does a router work on?
+Answer:
+Network Layer (Layer 3)
+10. Which layer does a switch work on?
+Answer:
+Data Link Layer (Layer 2)
+11. Difference between OSI and TCP/IP model
+Answer:
+OSI has 7 layers
+TCP/IP has 4 layers
+OSI is theoretical, TCP/IP is practical
