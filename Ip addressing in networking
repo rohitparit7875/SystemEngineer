@@ -1,0 +1,13 @@
+IP Addressing & Subnetting
+17. What is subnetting?
+Answer:
+Subnetting divides a large network into smaller networks.
+18. Why subnetting is used?
+Answer:
+To reduce network traffic and improve performance.
+19. What is default gateway?
+Answer:
+It is the router that connects a local network to other networks.
+20. What is NAT?
+Answer:
+NAT converts private IPs into public IPs to access the internet.
