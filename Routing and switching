@@ -1,0 +1,17 @@
+🔹 Routing & Switching – Questions & Answers
+12. What is a router?
+Answer:
+A router connects different networks and forwards data using IP addresses.
+13. What is a switch?
+Answer:
+A switch connects devices within the same network using MAC addresses.
+14. Static routing vs Dynamic routing
+Answer:
+Static: Manually configured
+Dynamic: Automatically updates routes
+15. What is VLAN?
+Answer:
+VLAN logically separates networks on the same switch to improve security and performance.
+16. What is a routing table?
+Answer:
+A routing table stores paths used by a router to forward packets.
