@@ -1,0 +1,24 @@
+🔹 Router vs Switch (Quick Comparison)
+Feature
+Switch
+Router
+Purpose
+Connects devices within the same network
+Connects different networks
+OSI Layer
+Layer 2 (Data Link)
+Layer 3 (Network)
+Uses
+MAC address
+IP address
+Main Job
+Forwards data inside a LAN
+Routes data between LAN and Internet
+Internet Access
+❌ Cannot connect to Internet directly
+✅ Provides Internet access
+Broadcast Handling
+Forwards broadcasts
+Blocks broadcasts
+Example Use
+Connecting PCs in an office
