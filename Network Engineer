@@ -1,0 +1,26 @@
+1. What is a network?
+Answer:
+A network is a collection of devices (computers, servers, routers) connected to share data and resources.
+2. What are LAN, MAN, and WAN?
+Answer:
+LAN: Local Area Network (office, home)
+MAN: Metropolitan Area Network (city-wide)
+WAN: Wide Area Network (internet)
+3. Difference between TCP and UDP
+Answer:
+TCP: Reliable, connection-oriented, slower
+UDP: Fast, connectionless, not reliable
+4. What is an IP address?
+Answer:
+An IP address is a unique identifier assigned to a device on a network.
+5. IPv4 vs IPv6
+Answer:
+IPv4: 32-bit (e.g. 192.168.1.1)
+IPv6: 128-bit (more addresses, better security)
+6. What is a MAC address?
+Answer:
+A MAC address is a physical hardware address of a network device.
+7. Bandwidth vs Latency
+Answer:
+Bandwidth: Data capacity
+Latency: Delay in data transmission
