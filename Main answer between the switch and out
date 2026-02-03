@@ -1,0 +1,2 @@
+router connects different networks and uses IP addresses to route data (for example, connecting a LAN to the Internet).
+A switch only connects devices within the same network using MAC addresses.
