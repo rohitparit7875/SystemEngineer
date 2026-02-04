@@ -1,0 +1,6 @@
+🌐 Network Commands
+ip a
+ping google.com
+netstat -tulnp
+ss -tulnp
+traceroute 8.8.8.8
