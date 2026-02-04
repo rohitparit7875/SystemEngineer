@@ -1,0 +1,6 @@
+👤 User Management
+useradd username
+passwd username
+usermod -aG group username
+id username
+whoami
