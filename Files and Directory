@@ -1,0 +1,7 @@
+ls          # list files
+cd          # change directory
+pwd         # current path
+mkdir       # create folder
+rm -rf      # delete file/folder
+cp          # copy
+mv          # move/rename
