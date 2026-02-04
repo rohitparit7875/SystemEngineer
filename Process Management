@@ -1,0 +1,6 @@
+📊 Process Management
+top
+htop
+ps aux
+kill -9 PID
+uptime
