@@ -1,0 +1,7 @@
+📦 Package Management
+
+Ubuntu/Debian:
+
+apt update
+apt install nginx
+apt remove
