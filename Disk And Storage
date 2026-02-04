@@ -1,0 +1,6 @@
+💾 Disk & Storage
+df -h
+du -sh *
+lsblk
+mount
+fdisk -l
