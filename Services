@@ -1,0 +1,6 @@
+🔐 Services (Very Important)
+systemctl start nginx
+systemctl stop nginx
+systemctl restart nginx
+systemctl status nginx
+systemctl enable nginx
