@@ -1,0 +1,16 @@
+🔹 BIT 2: Database + Cloud Basics
+SAP runs on databases + often on cloud → must understand both.
+🧠 What to learn:
+Database basics
+SQL (SELECT, INSERT, UPDATE)
+Tables, indexes
+Backup & restore concepts
+SAP supported DBs
+SAP HANA (most important)
+Oracle / SQL Server (basic idea)
+Cloud basics
+AWS / Azure fundamentals
+VM creation
+Storage & networking in cloud
+🎯 Goal:
+👉 Understand how SAP stores and retrieves data
