@@ -1,0 +1,15 @@
+🔹 BIT 1: Strong ACP Foundations (System + OS + Networking)
+This is your base. Without this, SAP BASIS will feel difficult.
+🧠 What to learn:
+Linux basics
+Commands: ls, cd, top, df, du, ps, chmod
+File system, permissions
+Networking basics
+IP, DNS, Subnetting
+Ports (HTTP 80, HTTPS 443, SAP 32xx, 36xx)
+Server concepts
+CPU, RAM, Disk, Virtual Machines
+Monitoring basics
+CPU usage, memory usage, logs
+🎯 Goal:
+👉 You should be comfortable working on a Linux server via terminal
