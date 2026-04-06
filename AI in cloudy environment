@@ -1,0 +1,15 @@
+🔹 BIT 2: Cloud + AI Infrastructure
+👉 Goal: Learn how AI runs in cloud environments
+Cloud Platforms:
+Amazon Web Services (AWS SageMaker)
+Microsoft Azure (Azure ML)
+Google Cloud Platform (Vertex AI)
+Key Services:
+GPU Instances
+Auto Scaling
+Object Storage (S3, Blob)
+Important Concepts:
+Infrastructure as Code (IaC)
+Containers & orchestration:
+Docker
+Kubernetes
