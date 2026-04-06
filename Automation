@@ -1,0 +1,15 @@
+🔹 BIT 3: AI Ops (AIOps) & Automation
+👉 Goal: Use AI to manage infrastructure
+What is AIOps?
+AI for monitoring, alerting, automation
+Tools:
+Prometheus
+Grafana
+Splunk
+Use Cases:
+Anomaly detection in logs
+Predicting server failures
+Auto-healing systems
+Learn:
+Logs + Metrics + Traces
+Alert fatigue reduction using AI
