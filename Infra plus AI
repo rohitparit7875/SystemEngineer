@@ -1,0 +1,18 @@
+🧠 INFRA + AI (4 BITS STRUCTURE)
+🔹 BIT 1: Fundamentals of Infra + AI
+👉 Goal: Understand what Infra AI actually means
+Key Concepts:
+What is AI Infrastructure
+Difference:
+Traditional Infra vs AI Infra
+Components:
+Compute (CPU vs GPU vs TPU)
+Storage (Data lakes, SSDs)
+Networking (High bandwidth, low latency)
+Tools & Tech:
+NVIDIA GPUs (A100, H100)
+Intel CPUs
+Google TPUs
+Learn This:
+Why AI needs high compute power
+Batch processing vs real-time inference
