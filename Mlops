@@ -1,0 +1,16 @@
+🔹 BIT 4: MLOps + AI Deployment
+👉 Goal: Deploy and maintain AI models in infra
+MLOps Lifecycle:
+Data Collection
+Model Training
+Deployment
+Monitoring
+Tools:
+TensorFlow
+PyTorch
+MLflow
+Kubeflow
+Key Concepts:
+CI/CD for ML
+Model versioning
+Drift detection
