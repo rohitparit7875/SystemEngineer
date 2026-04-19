@@ -1,0 +1,7 @@
+🔹 4. Monitoring & Logging
+Firewalls log all traffic:
+Allowed / Blocked connections
+Used for:
+Troubleshooting
+Security auditing
+Tools like SIEM are often integrated.
