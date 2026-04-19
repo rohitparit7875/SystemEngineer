@@ -1,0 +1,6 @@
+🔹 1. Network Segmentation (Zones)
+Firewalls divide the data centre network into zones like:
+Internal (LAN)
+DMZ (Demilitarized Zone)
+External (Internet)
+This helps control traffic between servers and prevents unauthorized
