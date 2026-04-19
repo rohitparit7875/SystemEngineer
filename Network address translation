@@ -1,0 +1,6 @@
+3. NAT (Network Address Translation)
+Used to map private IPs ↔ public IPs
+Types:
+Static NAT (one-to-one)
+Dynamic NAT / PAT (many-to-one)
+Helps hide internal network structure.
