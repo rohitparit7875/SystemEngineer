@@ -1,0 +1,7 @@
+🔹 2. Access Control Rules (ACLs)
+Firewall works based on rules like:
+Allow / Deny traffic based on IP, port, protocol
+Example:
+Allow HTTP/HTTPS (80/443)
+Block unknown ports
+Rule order is very important (top-down execution).
