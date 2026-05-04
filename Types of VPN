@@ -1,0 +1,9 @@
+Types of VPN
+1. Remote Access VPN
+Used by employees to connect securely from home or outside office.
+Example:
+Employee laptop → Company network
+2. Site-to-Site VPN
+Connects two office networks securely.
+Example:
+Pune office ↔ Bangalore office
