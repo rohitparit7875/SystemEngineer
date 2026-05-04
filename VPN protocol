@@ -1,0 +1,19 @@
+VPN Protocols
+Protocol
+Port
+Features
+IPSec
+UDP 500/4500
+Secure, enterprise use
+SSL VPN
+TCP 443
+Browser-based secure access
+PPTP
+TCP 1723
+Old, less secure
+L2TP
+UDP 1701
+Works with IPSec
+OpenVPN
+UDP/TCP 1194
+Open-source secure VPN
