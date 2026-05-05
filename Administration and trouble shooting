@@ -1,0 +1,6 @@
+Administration & Troubleshooting
+User management (useradd, passwd)
+File permissions (chmod, chown)
+Process management (ps, top, kill)
+Disk issues (df -h, du -sh)
+Service troubleshooting (systemctl, journalctl)
