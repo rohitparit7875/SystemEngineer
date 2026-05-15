@@ -1,0 +1,12 @@
+Linux & System Administration
+Process, service, boot process
+Disk, memory, CPU troubleshooting
+User management & permissions
+Important commands:
+Bash
+top
+df -h
+free -m
+systemctl
+ps -ef
+journalctl
