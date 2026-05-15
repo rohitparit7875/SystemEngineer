@@ -1,0 +1,10 @@
+3. Cloud / Virtualization / DevOps
+VM vs Container
+Docker basics
+AWS EC2, Load Balancer
+CI/CD concepts
+Commands:
+Bash
+docker ps
+docker images
+kubectl get pods
