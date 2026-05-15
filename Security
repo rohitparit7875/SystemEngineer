@@ -1,0 +1,12 @@
+2. Networking & Security
+TCP/UDP, DNS, NAT, OSI Model
+Firewall & port troubleshooting
+Public vs Private IP
+Important commands:
+Bash
+ping
+traceroute
+netstat
+ss -tulnp
+nslookup
+curl
