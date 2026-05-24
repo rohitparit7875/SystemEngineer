@@ -1,0 +1,19 @@
+Bit 2: Linux + Networking + Scripting
+Linux
+User management
+File permissions
+SSH, SCP, Rsync
+Process monitoring
+Systemctl services
+Log checking (journalctl, /var/log)
+Networking
+TCP/IP
+HTTP/HTTPS
+DNS
+Firewall
+Ports (22, 80, 443, 3389)
+Routing and NAT
+Scripting
+Bash scripting
+Basic Python
+Automation scripts
