@@ -1,0 +1,21 @@
+1. What is a Data Centre?
+Answer:
+A data centre is a facility that houses servers, storage devices, networking equipment, power systems, and cooling systems to run and manage IT services.
+2. What are the main components of a Data Centre?
+Answer:
+Servers
+Storage (SAN/NAS)
+Network devices (Switches, Routers, Firewalls)
+UPS
+DG (Diesel Generator)
+Cooling systems (CRAC/Precision AC)
+Racks and Cabling
+3. What is a Rack Unit (U)?
+Answer:
+Rack height measurement. 1U = 1.75 inches.
+4. What is a PDU?
+Answer:
+Power Distribution Unit distributes electrical power to servers and network devices inside racks.
+5. What is UPS?
+Answer:
+Uninterruptible Power Supply provides backup power during power failures until DG starts.
