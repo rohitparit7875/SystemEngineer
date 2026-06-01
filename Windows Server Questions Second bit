@@ -1,0 +1,17 @@
+Part 2: Windows & Server Questions
+6. What is Active Directory?
+Answer:
+Microsoft directory service used to manage users, computers, groups, and policies in a domain.
+7. Difference between Workgroup and Domain?
+Answer:
+Workgroup: Local management
+Domain: Centralized management through AD
+8. What is DNS?
+Answer:
+DNS converts hostnames into IP addresses.
+9. What is DHCP?
+Answer:
+DHCP automatically assigns IP addresses to devices.
+10. How do you reset an AD user password?
+Answer:
+Open Active Directory Users and Computers → Select User → Reset Password.
