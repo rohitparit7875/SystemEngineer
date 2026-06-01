@@ -1,0 +1,21 @@
+Part 4: Practical Troubleshooting Questions
+17. User cannot access a server. What will you check?
+Answer:
+Ping server
+Check network cable
+Verify IP configuration
+Check DNS resolution
+Verify server status
+18. Server is not powering on. What will you do?
+Answer:
+Check power cable
+Check PDU
+Verify UPS power
+Check server PSU status
+Escalate to vendor if required
+19. What is Connect:Direct?
+Answer:
+A managed file transfer tool used to securely transfer files between servers.
+20. What monitoring tools have you used?
+Answer:
+SolarWinds, Nagios, Zabbix, PRTG (mention whichever you have used).
