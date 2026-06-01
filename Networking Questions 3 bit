@@ -1,0 +1,25 @@
+Part 3: Networking Questions
+11. What is an IP Address?
+Answer:
+A unique address assigned to a device on a network.
+12. Difference between Public and Private IP?
+Answer:
+Public IP: Internet accessible
+Private IP: Internal network only
+13. What is a Subnet Mask?
+Answer:
+Used to identify network and host portions of an IP address.
+14. What is a VLAN?
+Answer:
+A logical separation of networks on the same switch.
+15. Difference between Router and Switch?
+Answer:
+Switch connects devices within a network.
+Router connects different networks.
+16. What commands do you use for network troubleshooting?
+Answer:
+ping
+ipconfig
+tracert
+nslookup
+netstat
